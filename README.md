@@ -3,9 +3,6 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Abuzar -->
 
-
-<iframe src="https://open.spotify.com/embed/track/6pooRNiLyYpxZeIA5kJ5EX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
