@@ -3,9 +3,10 @@
 
 <!-- ## 👋 &nbsp; Abuzar -->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/184280327131234306)](https://discord.com/users/184280327131234306)
 
 ### 👨🏻‍💻 &nbsp;About Me
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/184280327131234306)](https://discord.com/users/184280327131234306)
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
