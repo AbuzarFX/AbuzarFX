@@ -1,7 +1,9 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Abuzar</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Abuzar -->
+<!-- ## 👋 &nbsp; Abuzar -->
+
+https://discord.com/users/184280327131234306
 
 ### 👨🏻‍💻 &nbsp;About Me
 
