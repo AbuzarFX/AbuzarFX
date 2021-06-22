@@ -3,7 +3,7 @@
 
 <!-- ## 👋 &nbsp; Abuzar -->
 
-https://discord.com/users/184280327131234306
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/597170794111434753)](https://discord.com/users/184280327131234306)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
