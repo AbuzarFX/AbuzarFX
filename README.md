@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<a href="mailto:syedabuzar2002@gmail.com"><img src="https://img.shields.io/badge/-syedabuzar2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:abuzar@aizorstudio.com"><img src="https://img.shields.io/badge/-syedabuzar2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/stfuabuzar"><img src="https://img.shields.io/badge/-@stfuabuzar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://in.pinterest.com/stfuabuzar"><img src="https://img.shields.io/badge/-@stfuabuzar-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+
 </p>
