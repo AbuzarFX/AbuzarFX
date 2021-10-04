@@ -4,7 +4,7 @@
 <!-- ## 👋 &nbsp; Abuzar -->
 
 
-### 👨🏻‍💻 &nbsp;About Me
+###&nbsp;About Me
 
 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
